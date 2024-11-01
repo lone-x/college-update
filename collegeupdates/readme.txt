@@ -4,3 +4,4 @@ CREATE TABLE circulars ( id INT AUTO_INCREMENT PRIMARY KEY, title VARC
 filenames to be made
 circularuploads
 gradeuploads
+edit sidebar4.php
